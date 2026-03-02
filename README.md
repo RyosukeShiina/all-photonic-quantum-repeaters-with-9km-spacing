@@ -126,39 +126,46 @@ project-root/
 │   │   │           └── R_ErrorLikelihood.m
 │   │   ├── R_Find_v.m
 │   │   └── R_LogErrAfterPost.m
-│   └── UW3_Spool_InnerAndOuterLeave.m
-│       ├── UW3_OuterLeave.m
-│       │   ├── UW3_AddInitialLogErrors.m
-│       │   └── R_ConcatenatedEC_OuterLeaves.m
-│       │       ├── R_ReminderMod.m
-│       │       ├── R_SyndromeToErrors.m
-│       │       └── R_JointErrorLikelihood.m
-│       │           └── R_ErrorLikelihood.m
-│       ├── UW3_Spool_InnerLeave.m
-│       │   ├── UW3_AddInitialLogErrorsInnerLeaves.m
-│       │   ├── LP_TEC_Spool.m
-│       │   │   └── R_ReminderMod.m
-│       │   └── LP_SteaneEC
-│       │       ├── R_ReminderMod.m
-│       │       ├── R_SyndromeToErrors.m
-│       │       └── LP_JointErrorLikelihood.m
-│       │           └── R_ErrorLikelihood.m
-│       ├── R_Find_v.m
-│       └── R_LogErrAfterPost.m
+│   ├── UW3_Spool_InnerAndOuterLeave.m
+│   │   ├── UW3_OuterLeave.m
+│   │   │   ├── UW3_AddInitialLogErrors.m
+│   │   │   └── R_ConcatenatedEC_OuterLeaves.m
+│   │   │       ├── R_ReminderMod.m
+│   │   │       ├── R_SyndromeToErrors.m
+│   │   │       └── R_JointErrorLikelihood.m
+│   │   │           └── R_ErrorLikelihood.m
+│   │   ├── UW3_Spool_InnerLeave.m
+│   │   │   ├── UW3_AddInitialLogErrorsInnerLeaves.m
+│   │   │   ├── LP_TEC_Spool.m
+│   │   │   │   └── R_ReminderMod.m
+│   │   │   └── LP_SteaneEC
+│   │   │       ├── R_ReminderMod.m
+│   │   │       ├── R_SyndromeToErrors.m
+│   │   │       └── LP_JointErrorLikelihood.m
+│   │   │           └── R_ErrorLikelihood.m
+│   │   ├── R_Find_v.m
+│   │   └── R_LogErrAfterPost.m
+│   ├── Perror_vs_v7_UW2_9km.m (Fig 9A)
+│   ├── Rate_vs_Distance_UW2_and_UW3.m (Fig 9B01)
+│   ├── Rate_vs_k_UW2.m (Fig 9B02-9B04)
+│   ├── Rate_vs_k_UW3.m (Fig 9B02-9B04)
+│   ├── Rate_vs_Distance_ML_UW2_and_UW3.m (Fig 10A01)
+│   ├── Rate_vs_Distance_LP.m (Fig 10B01)
+│   └── Rate_vs_Distance_LP_Spool.m (Fig 10B03)
 ├── mathematica_simulation/
-│   ├── NoG1_vs_Distance_UW2.m
-│   ├── NoG1_vs_Distance_UW2_k=15.m
-│   ├── NoG1_vs_Distance_UW3.m
-│   ├── NoG1_vs_k_UW2.m
-│   ├── NoG1_vs_k_UW2_k=14.m
-│   ├── NoG1_vs_k_UW2_k=15.m
-│   ├── NoG1_vs_k_UW2_k=16.m
-│   ├── NoG1_vs_k_UW2_k=17.m
-│   ├── NoG1_vs_k_UW2_k=18.m
-│   ├── NoG1_vs_k_UW2_k=19.m
-│   ├── NoG1_vs_k_UW2_k=20.m
-│   ├── NoG1_vs_k_UW3.m
-│   └── NoG1_vs_Distance_LP.m
+│   ├── NoG1_vs_Distance_UW2.m (Fig 9C01)
+│   ├── NoG1_vs_Distance_UW2_k=15.m (Fig 9C01)
+│   ├── NoG1_vs_Distance_UW3.m (Fig 9C01)
+│   ├── NoG1_vs_k_UW2.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW2_k=14.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW2_k=15.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW2_k=16.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW2_k=17.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW2_k=18.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW2_k=19.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW2_k=20.m (Fig 9C02)
+│   ├── NoG1_vs_k_UW3.m (Fig 9C02)
+│   └── NoG1_vs_Distance_LP.m (Fig 10B02)
 ├── python_plotting/
 │   ├── QCNC_camera-ready_FIG3_Rate_vs_Distance.ipynb (QCNC_Fig 3)
 │   ├── QCNC_camera-ready_FIG4_Rate_vs_k.ipynb (QCNC_Fig 4)
