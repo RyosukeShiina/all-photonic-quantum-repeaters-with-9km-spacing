@@ -145,7 +145,7 @@ project-root/
 │   │   │           └── R_ErrorLikelihood.m
 │   │   ├── R_Find_v.m
 │   │   └── R_LogErrAfterPost.m
-│   ├── Perror_vs_v7_UW2_9km.m (Fig 9A)
+│   ├── Perror_vs_v7_UW2_9km.m (Fig 9A01)
 │   ├── Rate_vs_Distance_UW2_and_UW3.m (Fig 9B01)
 │   ├── Rate_vs_k_UW2.m (Fig 9B02-9B04)
 │   ├── Rate_vs_k_UW3.m (Fig 9B02-9B04)
@@ -167,6 +167,14 @@ project-root/
 │   ├── NoG1_vs_k_UW3.m (Fig 9C02)
 │   └── NoG1_vs_Distance_LP.m (Fig 10B02)
 ├── python_plotting/
+│   ├── FIG9A01_Perror_vs_v7.ipynb
+│   ├── FIG9B01_Rate_vs_Distance.ipynb
+│   ├── FIG9B02-FIG9B05_Rate_vs_k.ipynb
+│   ├── FIG9C01_NoGKP_vs_Distance.ipynb
+│   ├── FIG9D01-FIG9D05_Cost.ipynb
+│   ├── FIG10A02_Rate_vs_Distance.ipynb
+│   ├── FIG10B03_Rate_vs_Distance.ipynb
+│   ├── FIG10B04_Rate_vs_Distance.ipynb
 │   ├── QCNC_camera-ready_FIG3_Rate_vs_Distance.ipynb (QCNC_Fig 3)
 │   ├── QCNC_camera-ready_FIG4_Rate_vs_k.ipynb (QCNC_Fig 4)
 │   ├── QCNC_camera-ready_FIG5_NoGKP_vs_Distance.ipynb (QCNC_Fig 5)
