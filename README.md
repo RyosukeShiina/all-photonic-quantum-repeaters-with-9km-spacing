@@ -154,7 +154,8 @@ project-root/
 │   └── Rate_vs_Distance_LP_Spool.m (Fig 10B03)
 ├── mathematica_simulation/
 │   ├── NoG1_vs_Distance_UW2.m (Fig 9C01)
-│   ├── NoG1_vs_Distance_UW2_k=15.m (Fig 9C01)
+│   ├── NoG1_vs_Distance_UW2_k=15_three9.m (Fig 9C01)
+│   ├── NoG1_vs_Distance_UW2_k=15_four9.m (Fig 9C01)
 │   ├── NoG1_vs_Distance_UW3.m (Fig 9C01)
 │   ├── NoG1_vs_k_UW2.m (Fig 9C02)
 │   ├── NoG1_vs_k_UW2_k=14.m (Fig 9C02)
