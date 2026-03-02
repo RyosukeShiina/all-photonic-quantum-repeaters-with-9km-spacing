@@ -21,6 +21,31 @@ To reproduce QCNC figures from the provided data:
 The notebooks load data from `python_plotting/Fig_Data/`.
 If you would like to regenerate the simulation outputs from scratch, please use the UW3 series.
 
+# For arXiv paper readers
+This repository already contains simulation outputs used in the QCNC figures.
+To reproduce QCNC figures from the provided data:
+1. Go to `python_plotting/`
+2. Open and run the following notebooks:
+   - arXiv Fig. 4: `FIG9A01_Perror_vs_v7.ipynb`
+   - arXiv Fig. 5: `FIG9B01_Rate_vs_Distance.ipynb`
+   - arXiv Fig. 6: `FIG9B02-FIG9B05_Rate_vs_k.ipynb`
+   - arXiv Fig. 7: `FIG9B02-FIG9B05_Rate_vs_k.ipynb`
+   - arXiv Fig. 8: `FIG9B02-FIG9B05_Rate_vs_k.ipynb`
+   - arXiv Fig. 9: `FIG9B02-FIG9B05_Rate_vs_k.ipynb`
+   - arXiv Fig. 10: `FIG9C01_NoGKP_vs_Distance.ipynb`
+   - arXiv Fig. 11: 
+   - arXiv Fig. 12: `FIG9D01-FIG9D05_Cost.ipynb`
+   - arXiv Fig. 13: `FIG9D01-FIG9D05_Cost.ipynb`
+   - arXiv Fig. 14: `FIG9D01-FIG9D05_Cost.ipynb`
+   - arXiv Fig. 15: `FIG9D01-FIG9D05_Cost.ipynb`
+   - arXiv Fig. 16: `FIG9D01-FIG9D05_Cost.ipynb`
+   - arXiv Fig. 18: `FIG10A02_Rate_vs_Distance.ipynb`
+   - arXiv Fig. 19: `FIG10A03_NoGKP_vs_Distance.ipynb`
+   - arXiv Fig. 22: `FIG10B03_Rate_vs_Distance.ipynb`
+   - arXiv Fig. 23: `FIG10B04_NoGKP_vs_Distance.ipynb`  
+
+The notebooks load data from `python_plotting/Fig_Data/`.
+
 # Folder Structure and Call Hierarchy
 When viewing this repository on GitHub, please first open the `README.md` file. To properly display the directory tree shown below, make sure to click on the **Code** tab.
 
