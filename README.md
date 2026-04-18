@@ -42,8 +42,7 @@ To reproduce QCNC figures from the provided data:
    - arXiv Fig. 18: `FIG10A02_Rate_vs_Distance.ipynb`
    - arXiv Fig. 19: `FIG10A03_NoGKP_vs_Distance.ipynb`
    - arXiv Fig. 22: `FIG10B03_Rate_vs_Distance.ipynb`
-   - arXiv Fig. 23: `FIG10B04_Rate_vs_Distance.ipynb`
-   - arXiv Fig. 24: `FIG10B05_NoGKP_vs_Distance.ipynb`
+   - arXiv Fig. 23: `FIG10B04_NoGKP_vs_Distance.ipynb`
 
 The notebooks load data from `python_plotting/Fig_Data/`.
 
@@ -177,7 +176,7 @@ project-root/
 │   ├── Rate_vs_k_UW3.m (Fig 9B02-9B04)
 │   ├── Rate_vs_Distance_ML_UW2_and_UW3.m (Fig 10A02)
 │   ├── Rate_vs_Distance_LP.m (Fig 10B03)
-│   └── Rate_vs_Distance_LP_Spool_125m.m (Fig 10B04)
+│   └── Rate_vs_Distance_LP_Spool_125m.m (Fig 10B03)
 ├── mathematica_simulation/
 │   ├── NoG1_vs_Distance_UW2.m (Fig 9C01)
 │   ├── NoG1_vs_Distance_UW2_k=15_three9.m (Fig 9C01)
@@ -194,7 +193,7 @@ project-root/
 │   ├── NoG1_vs_k_UW3.m (Fig 9C02)
 │   ├── NoG1_vs_Distance_ML_UW2.m (Fig 10A03)
 │   ├── NoG1_vs_Distance_ML_UW3.m (Fig 10A03)
-│   └── NoG1_vs_Distance_LP.m (Fig 10B05)
+│   └── NoG1_vs_Distance_LP.m (Fig 10B04)
 ├── python_plotting/
 │   ├── FIG9A01_Perror_vs_v7.ipynb
 │   ├── FIG9B01_Rate_vs_Distance.ipynb
@@ -205,8 +204,7 @@ project-root/
 │   ├── FIG10A02_Rate_vs_Distance.ipynb
 │   ├── FIG10A03_NoGKP_vs_Distance.ipynb
 │   ├── FIG10B03_Rate_vs_Distance.ipynb
-│   ├── FIG10B04_Rate_vs_Distance.ipynb
-│   ├── FIG10B05_NoGKP_vs_Distance.ipynb
+│   ├── FIG10B04_NoGKP_vs_Distance.ipynb
 │   ├── QCNC_camera-ready_FIG3_Rate_vs_Distance.ipynb (QCNC_Fig 3)
 │   ├── QCNC_camera-ready_FIG4_Rate_vs_k.ipynb (QCNC_Fig 4)
 │   ├── QCNC_camera-ready_FIG5_NoGKP_vs_Distance.ipynb (QCNC_Fig 5)
