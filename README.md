@@ -43,10 +43,10 @@ To reproduce QCNC figures from the provided data:
    - arXiv Fig. 19: `FIG10A03_NoGKP_vs_Distance.ipynb`
    - arXiv Fig. 22: `FIG10B03_Rate_vs_Distance.ipynb`
    - arXiv Fig. 23: `FIG10B04_NoGKP_vs_Distance.ipynb`
-   - arXiv Fig. 24: `.ipynb`
-   - arXiv Fig. 25: `.ipynb`
-   - arXiv Fig. 26: `.ipynb`
-   - arXiv Fig. 27: `.ipynb`
+   - arXiv Fig. 24: `FIG10C01-FIG10C03_SensitivityAnalysis.ipynb`
+   - arXiv Fig. 25: `FIG10C01-FIG10C03_SensitivityAnalysis.ipynb`
+   - arXiv Fig. 26: `FIG10C01-FIG10C03_SensitivityAnalysis.ipynb`
+   - arXiv Fig. 27: `FIG10C04_etam_vs_Lcavity.ipynb`
 
 The notebooks load data from `python_plotting/Fig_Data/`.
 
